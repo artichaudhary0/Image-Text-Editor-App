@@ -85,12 +85,13 @@ class _EditTextScreenState extends EditImageviewModel {
       File(widget.selectedImage),
       fit: BoxFit.fill,
       width: MediaQuery.of(context).size.width,
+      height:  MediaQuery.of(context).size.height,
     ),
   );
 
   Widget get _addNewText => FloatingActionButton(
     onPressed: () => addNewDialog(context),
-    backgroundColor: Colors.white10,
+    backgroundColor: Colors.white,
     tooltip: "Add new text",
     child: const Icon(
       Icons.edit,
