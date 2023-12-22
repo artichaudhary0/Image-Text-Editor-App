@@ -19,17 +19,16 @@ This repository contains the source code for an Image Text Editor app. The app a
 3. Mark as Complete: Simply tap on a task to mark it as completed.
 4. Delete a Task: Swipe left or right on a task to remove it.
 
-### Pictures of application 
+## Pictures of application 
 
-<img src="https://github.com/artichaudhary0/todo/assets/71622834/783212e4-21bc-43d0-8855-a0154fd0b6e4" width="200"/>
-<img src="https://github.com/artichaudhary0/todo/assets/71622834/ea3ddbc3-90cd-4495-b1b7-05b6f07cd015" width="200"/>
-<img src="https://github.com/artichaudhary0/todo/assets/71622834/0c239d4b-d9b6-42cf-8623-2479bed439a2" width="200"/> 
-<img src="https://github.com/artichaudhary0/todo/assets/71622834/124a660e-2daf-484a-964b-436bf9249cc6" width="200"/>  
-<img src="https://github.com/artichaudhary0/todo/assets/71622834/8b5f7469-76cb-4688-9b0c-6ef77616e030" width="200"/>  
+<img src="https://github.com/artichaudhary0/Image-Text-Editor-App/assets/71622834/5bc2d865-f55c-43f5-9ea9-a572d2956c50" width="200"/>
+<img src="https://github.com/artichaudhary0/Image-Text-Editor-App/assets/71622834/bab90417-66cb-486c-84ae-f92548791a4a" width="200"/>
+<img src="https://github.com/artichaudhary0/Image-Text-Editor-App/assets/71622834/2d4d4dd8-ddca-4735-ad5a-f0e0b446a264" width="200"/> 
+<img src="https://github.com/artichaudhary0/Image-Text-Editor-App/assets/71622834/21e483da-de8b-4fee-a6c4-6029d880fd5c" width="200"/>  
+<img src="https://github.com/artichaudhary0/Image-Text-Editor-App/assets/71622834/2d501d2f-ecd1-4118-87fa-8945021b24b2" width="200"/>  
+<img src="https://github.com/artichaudhary0/Image-Text-Editor-App/assets/71622834/b83b8677-19dd-47bb-a974-f2fe955f17ca" width="200"/>  
+<img src="https://github.com/artichaudhary0/Image-Text-Editor-App/assets/71622834/c294da01-e710-454e-a741-56c051800bc8" width="200"/>  
 
-
-### Demo
-https://github.com/artichaudhary0/todo/assets/71622834/f646a5bc-6fcf-4eb3-ae3b-49f207bc7d3f
 
 ## Contribution
 We welcome all contributions. Here's how you can help:
